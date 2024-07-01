@@ -1,0 +1,2397 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,
+initial-scale=1.0">
+<title>Reasearch Paper Website</title>
+<link rel="stylesheet" href="css/style.css">
+<link rel='stylesheet'
+
+href='https://cdnjs.cloudflare.com/ajax/libs/font-
+awesome/6.4.2/css/all.min.css'><link rel="stylesheet"
+
+href="./style.css">
+</head>
+<body>
+<!-- header section -->
+<header class="header">
+<!-- logo -->
+<div class="logo">
+<img src="images/R1.png" alt="">
+<h3>
+Researchers Shelf
+</h3>
+</div>
+<!-- navigation bar -->
+
+Name: Partho Ghoshal
+Roll Number: 69
+RegistraƟon Number: 22071223
+<nav class="navbar">
+<a href="#Home">Home</a>
+<a href="#Department">Department</a>
+<a href="#Publish">Publish</a>
+<a href="#About">About</a>
+<div class="search-icon">
+
+<ion-icon id="searchbtn" name="search-
+outline"></ion-icon>
+
+</div>
+<div class="icons">
+<h3 id="Login-btn">Login</h3>
+</div>
+</nav>
+<form action="" class="searchForm">
+<input type="search" placeholder="search"
+id="searchbox">
+</form>
+<form action="" class="Login-form">
+<h3>Login</h3>
+<input type="email" placeholder="Your Email"
+class="box">
+<input type="password" placeholder="Your Password"
+class="box">
+<p>Forget password <a href="#">Click Here</a></p>
+<p>Dont have an Account <a href="#">Create Now</a></p>
+<input type="submit" value="Login" class="btn">
+</form>
+</header>
+<!-- Home section -->
+<section class="home" id="Home">
+</section>
+<!-- Home section ends-->
+
+Name: Partho Ghoshal
+Roll Number: 69
+RegistraƟon Number: 22071223
+
+<!-- Partho section -->
+<div class="container" id="Department">
+<div class="left">
+<div style="height: 80px;" class="Branch1">
+<img style id="civil" src="media/civil.jpeg"
+alt="" width="260" height="60" >
+<div class="Branch-info">
+<h1 style="font-size: 15px; margin-top: -5px;
+font-family: system-ui, -apple-system, BlinkMacSystemFont,
+'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans',
+'Helvetica Neue', sans-serif;">Civil Engineering</h1>
+<!-- <h2 style="font-size: 25px; margin-top: -
+16px; font-family: system-ui, -apple-system,
+BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu,
+
+Cantarell, 'Open Sans', 'Helvetica Neue', sans-
+serif;">Engineering</h2> -->
+
+<!-- <button id="btn_civil" class="btn_civil"
+style="margin-top: 10px;">Know More</button> -->
+</div>
+</div>
+<div style="height: 80px;" class="Branch1">
+<img style id="civil" src="media/Mechanical.jpeg"
+alt="" width="260" height="60" >
+<div class="Branch-info">
+<h1 style="font-size: 15px; margin-top: -5px;
+font-family: system-ui, -apple-system, BlinkMacSystemFont,
+'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans',
+'Helvetica Neue', sans-serif;">Mechnical Engineering</h1>
+<!-- <h2 style="font-size: 25px; margin-top: -
+16px; font-family: system-ui, -apple-system,
+BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu,
+
+Cantarell, 'Open Sans', 'Helvetica Neue', sans-
+serif;">Engineering</h2> -->
+
+<!-- <button id="btn_civil" class="btn_civil"
+style="margin-top: 10px;">Know More</button> -->
+</div>
+
+Name: Partho Ghoshal
+Roll Number: 69
+RegistraƟon Number: 22071223
+</div><div style="height: 80px;" class="Branch1">
+<img style id="civil" src="media/Electronics.jpeg"
+alt="" width="260" height="60" >
+<div class="Branch-info">
+<h1 style="font-size: 15px; margin-top: -5px;
+font-family: system-ui, -apple-system, BlinkMacSystemFont,
+'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans',
+'Helvetica Neue', sans-serif;">Electronics Engineering</h1>
+<!-- <h2 style="font-size: 25px; margin-top: -
+16px; font-family: system-ui, -apple-system,
+BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu,
+
+Cantarell, 'Open Sans', 'Helvetica Neue', sans-
+serif;">Engineering</h2> -->
+
+<!-- <button id="btn_civil" class="btn_civil"
+style="margin-top: 10px;">Know More</button> -->
+</div>
+</div><div style="height: 80px;" class="Branch1">
+<img style id="civil" src="media/Electronics and
+Telecommunication.jpeg" alt="" width="260" height="60" >
+<div class="Branch-info">
+<h1 style="font-size: 15px; margin-top: -5px;
+font-family: system-ui, -apple-system, BlinkMacSystemFont,
+'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans',
+'Helvetica Neue', sans-serif;">Electronics and
+Telecommunication</h1>
+<!-- <h2 style="font-size: 25px; margin-top: -
+16px; font-family: system-ui, -apple-system,
+BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu,
+
+Cantarell, 'Open Sans', 'Helvetica Neue', sans-
+serif;">Engineering</h2> -->
+
+<!-- <button id="btn_civil" class="btn_civil"
+style="margin-top: 10px;">Know More</button> -->
+</div>
+</div><div style="height: 80px;" class="Branch1">
+<img style id="civil" src="media/Electrical.jpeg"
+alt="" width="260" height="60" >
+<div class="Branch-info">
+
+Name: Partho Ghoshal
+Roll Number: 69
+RegistraƟon Number: 22071223
+<h1 style="font-size: 15px; margin-top: -5px;
+font-family: system-ui, -apple-system, BlinkMacSystemFont,
+'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans',
+'Helvetica Neue', sans-serif;">Electrical</h1>
+<!-- <h2 style="font-size: 25px; margin-top: -
+16px; font-family: system-ui, -apple-system,
+BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu,
+
+Cantarell, 'Open Sans', 'Helvetica Neue', sans-
+serif;">Engineering</h2> -->
+
+<!-- <button id="btn_civil" class="btn_civil"
+style="margin-top: 10px;">Know More</button> -->
+</div>
+</div><div style="height: 80px;" class="Branch1">
+<img style id="civil" src="media/Computer
+Technology.jpeg" alt="" width="260" height="60" >
+<div class="Branch-info">
+<h1 style="font-size: 15px; margin-top: -5px;
+font-family: system-ui, -apple-system, BlinkMacSystemFont,
+'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans',
+'Helvetica Neue', sans-serif;">Computer Technology</h1>
+<!-- <h2 style="font-size: 25px; margin-top: -
+16px; font-family: system-ui, -apple-system,
+BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu,
+
+Cantarell, 'Open Sans', 'Helvetica Neue', sans-
+serif;">Engineering</h2> -->
+
+<!-- <button id="btn_civil" class="btn_civil"
+style="margin-top: 10px;">Know More</button> -->
+</div>
+</div><div style="height: 80px;" class="Branch1">
+<img style id="civil" src="media/Information
+Technology.jpeg" alt="" width="260" height="60" >
+<div class="Branch-info">
+<h1 style="font-size: 15px; margin-top: -5px;
+font-family: system-ui, -apple-system, BlinkMacSystemFont,
+'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans',
+'Helvetica Neue', sans-serif;">Information Technology</h1>
+
+Name: Partho Ghoshal
+Roll Number: 69
+RegistraƟon Number: 22071223
+<!-- <h2 style="font-size: 25px; margin-top: -
+16px; font-family: system-ui, -apple-system,
+BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu,
+
+Cantarell, 'Open Sans', 'Helvetica Neue', sans-
+serif;">Engineering</h2> -->
+
+<!-- <button id="btn_civil" class="btn_civil"
+style="margin-top: 10px;">Know More</button> -->
+</div>
+</div><div style="height: 80px;" class="Branch1">
+<img style id="civil" src="media/Computer
+Science.jpeg" alt="" width="260" height="60" >
+<div class="Branch-info">
+<h1 style="font-size: 15px; margin-top: -5px;
+font-family: system-ui, -apple-system, BlinkMacSystemFont,
+'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans',
+'Helvetica Neue', sans-serif;">Computer Science</h1>
+<!-- <h2 style="font-size: 25px; margin-top: -
+16px; font-family: system-ui, -apple-system,
+BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu,
+
+Cantarell, 'Open Sans', 'Helvetica Neue', sans-
+serif;">Engineering</h2> -->
+
+<!-- <button id="btn_civil" class="btn_civil"
+style="margin-top: 10px;">Know More</button> -->
+</div>
+</div><div style="height: 80px;" class="Branch1">
+<img style id="civil" src="media/Computer Science
+& Design.jpeg" alt="" width="260" height="60" >
+<div class="Branch-info">
+<h1 style="font-size: 15px; margin-top: -5px;
+font-family: system-ui, -apple-system, BlinkMacSystemFont,
+'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans',
+'Helvetica Neue', sans-serif;">Computer Science &
+Design</h1>
+<!-- <h2 style="font-size: 25px; margin-top: -
+16px; font-family: system-ui, -apple-system,
+BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu,
+
+Name: Partho Ghoshal
+Roll Number: 69
+RegistraƟon Number: 22071223
+
+Cantarell, 'Open Sans', 'Helvetica Neue', sans-
+serif;">Engineering</h2> -->
+
+<!-- <button id="btn_civil" class="btn_civil"
+style="margin-top: 10px;">Know More</button> -->
+</div>
+</div><div style="height: 80px;" class="Branch1">
+<img style id="civil" src="media/Computer Science
+& Design.jpeg" alt="" width="260" height="60" >
+<div class="Branch-info">
+<h1 style="font-size: 15px; margin-top: -5px;
+font-family: system-ui, -apple-system, BlinkMacSystemFont,
+'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans',
+'Helvetica Neue', sans-serif;">Computer Science &
+Design</h1>
+<!-- <h2 style="font-size: 25px; margin-top: -
+16px; font-family: system-ui, -apple-system,
+BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu,
+
+Cantarell, 'Open Sans', 'Helvetica Neue', sans-
+serif;">Engineering</h2> -->
+
+<!-- <button id="btn_civil" class="btn_civil"
+style="margin-top: 10px;">Know More</button> -->
+</div>
+</div>
+<div style="height: 80px;" class="Branch1">
+<img style id="civil" src="media/CSE(Artificial
+Intelligence & Machine Learning).jpeg" alt="" width="260"
+height="60" >
+<div class="Branch-info">
+<h1 style="font-size: 15px; margin-top: -5px;
+font-family: system-ui, -apple-system, BlinkMacSystemFont,
+'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans',
+'Helvetica Neue', sans-serif;">CSE(Artificial Intelligence &
+Machine Learning)</h1>
+<!-- <h2 style="font-size: 25px; margin-top: -
+16px; font-family: system-ui, -apple-system,
+BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu,
+
+Name: Partho Ghoshal
+Roll Number: 69
+RegistraƟon Number: 22071223
+
+Cantarell, 'Open Sans', 'Helvetica Neue', sans-
+serif;">Engineering</h2> -->
+
+<!-- <button id="btn_civil" class="btn_civil"
+style="margin-top: 10px;">Know More</button> -->
+</div>
+</div>
+<div style="height: 80px;" class="Branch1">
+<img style id="civil" src="media/Computer Science
+Engineering(IOT).jpeg" alt="" width="260" height="60" >
+<div class="Branch-info">
+<h1 style="font-size: 15px; margin-top: -5px;
+font-family: system-ui, -apple-system, BlinkMacSystemFont,
+'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans',
+'Helvetica Neue', sans-serif;">Civil Engineering</h1>
+<!-- <h2 style="font-size: 25px; margin-top: -
+16px; font-family: system-ui, -apple-system,
+BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu,
+
+Cantarell, 'Open Sans', 'Helvetica Neue', sans-
+serif;">Engineering</h2> -->
+
+<!-- <button id="btn_civil" class="btn_civil"
+style="margin-top: 10px;">Know More</button> -->
+</div>
+</div>
+</div>
+<div class="right">
+<div style="height: 300px;" class="Branch1">
+<img style id="civil" src="media/civil.jpeg" alt=""
+width="260" height="140" >
+<div class="Branch-info">
+<h1 style="font-size: 25px; margin-top: 0px;
+font-family: system-ui, -apple-system, BlinkMacSystemFont,
+'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans',
+'Helvetica Neue', sans-serif;">Civil</h1>
+<h2 style="font-size: 25px; margin-top: -10px;
+font-family: system-ui, -apple-system, BlinkMacSystemFont,
+'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans',
+'Helvetica Neue', sans-serif;">Engineering</h2>
+
+Name: Partho Ghoshal
+Roll Number: 69
+RegistraƟon Number: 22071223
+<button id="btn_civil" class="btn_civil"
+style="margin-top: 10px;">Know More</button>
+</div>
+</div>
+<div style="height: 300px;" class="Branch1">
+<div>
+<img style id="civil"
+src="media/Mechanical.jpeg" alt="" width="260" height="140"
+>
+</div>
+<div class="Branch-info">
+<h1 style="font-size: 25px; margin-top: 0px;
+font-family: system-ui, -apple-system, BlinkMacSystemFont,
+'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans',
+'Helvetica Neue', sans-serif;">Mechanical</h1>
+<h2 style="font-size: 25px; margin-top: -5px;
+font-family: system-ui, -apple-system, BlinkMacSystemFont,
+'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans',
+'Helvetica Neue', sans-serif;">Engineering</h2>
+<button id="btn_civil" class="btn_civil"
+style="margin-top: 10px;">Know More</button>
+</div>
+</div>
+<div style="height: 300px;" class="Branch1">
+<div>
+<img style id="civil"
+src="media/Electronics.jpeg" alt="" width="260" height="140"
+>
+</div>
+<div class="Branch-info">
+<h1 style="font-size: 25px; margin-top: 0px;
+font-family: system-ui, -apple-system, BlinkMacSystemFont,
+'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans',
+'Helvetica Neue', sans-serif;">Electronics</h1>
+<h2 style="font-size: 25px; margin-top: -5px;
+font-family: system-ui, -apple-system, BlinkMacSystemFont,
+
+Name: Partho Ghoshal
+Roll Number: 69
+RegistraƟon Number: 22071223
+'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans',
+'Helvetica Neue', sans-serif;">Engineering</h2>
+<button id="btn_civil" class="btn_civil"
+style="margin-top: 10px;">Know More</button>
+</div>
+</div>
+<div style="height: 300px;" class="Branch1">
+<div>
+<img style id="civil" src="media/Electronics and
+Telecommunication.jpeg" alt="" width="260" height="140" >
+</div>
+<div class="Branch-info">
+<h1 style="font-size: 22px; margin-top: -5px;
+font-family: system-ui, -apple-system, BlinkMacSystemFont,
+'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans',
+'Helvetica Neue', sans-serif;">Electronics And </h1>
+<h2 style="font-size: 22px; margin-top: -5px;
+font-family: system-ui, -apple-system, BlinkMacSystemFont,
+'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans',
+'Helvetica Neue', sans-serif;">Telecommunication </h2>
+<h3 style="font-size: 22px; margin-top: -5px;
+font-family: system-ui, -apple-system, BlinkMacSystemFont,
+'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans',
+'Helvetica Neue', sans-serif;">Engineering </h3>
+<button id="btn_civil" class="btn_civil"
+style="margin-top: -10px;">Know More</button>
+</div>
+</div>
+<div style="height: 300px;" class="Branch1">
+<div>
+<img style id="civil"
+src="media/Electrical.jpeg" alt="" width="260" height="140"
+>
+</div>
+<div class="Branch-info">
+<h1 style="font-size: 25px; margin-top: 0px;
+font-family: system-ui, -apple-system, BlinkMacSystemFont,
+
+Name: Partho Ghoshal
+Roll Number: 69
+RegistraƟon Number: 22071223
+'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans',
+'Helvetica Neue', sans-serif;">Electrical</h1>
+<h2 style="font-size: 25px; margin-top: -5px;
+font-family: system-ui, -apple-system, BlinkMacSystemFont,
+'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans',
+'Helvetica Neue', sans-serif;">Engineering</h2>
+<button id="btn_civil" class="btn_civil"
+style="margin-top: 10px;">Know More</button>
+</div>
+</div>
+<div style="height: 300px;" class="Branch1">
+<div>
+<img style id="civil" src="media/Computer
+Technology.jpeg" alt="" width="260" height="140" >
+</div>
+<div class="Branch-info">
+<h1 style="font-size: 25px; margin-top: 0px;
+font-family: system-ui, -apple-system, BlinkMacSystemFont,
+'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans',
+'Helvetica Neue', sans-serif;">Computer</h1>
+<h2 style="font-size: 25px; margin-top: -5px;
+font-family: system-ui, -apple-system, BlinkMacSystemFont,
+'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans',
+'Helvetica Neue', sans-serif;">Technology</h2>
+<button id="btn_civil" class="btn_civil"
+style="margin-top: 10px;">Know More</button>
+</div>
+</div>
+<div style="height: 300px;" class="Branch1">
+<div>
+<img style id="civil" src="media/Information
+Technology.jpeg" alt="" width="260" height="140" >
+</div>
+<div class="Branch-info">
+<h1 style="font-size: 25px; margin-top: 0px;
+font-family: system-ui, -apple-system, BlinkMacSystemFont,
+
+Name: Partho Ghoshal
+Roll Number: 69
+RegistraƟon Number: 22071223
+'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans',
+'Helvetica Neue', sans-serif;">Information</h1>
+<h2 style="font-size: 25px; margin-top: -5px;
+font-family: system-ui, -apple-system, BlinkMacSystemFont,
+'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans',
+'Helvetica Neue', sans-serif;">Technology</h2>
+<button id="btn_civil" class="btn_civil"
+style="margin-top: 10px;">Know More</button>
+</div>
+</div>
+<div style="height: 300px;" class="Branch1">
+<div>
+<img style id="civil" src="media/Computer
+Science.jpeg" alt="" width="260" height="140" >
+</div>
+<div class="Branch-info">
+<h1 style="font-size: 25px; margin-top: 0px;
+font-family: system-ui, -apple-system, BlinkMacSystemFont,
+'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans',
+'Helvetica Neue', sans-serif;">Computer Science</h1>
+<h2 style="font-size: 25px; margin-top: -5px;
+font-family: system-ui, -apple-system, BlinkMacSystemFont,
+'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans',
+'Helvetica Neue', sans-serif;">Engineering</h2>
+<button id="btn_civil" class="btn_civil"
+style="margin-top: 10px;">Know More</button>
+</div>
+</div>
+<div style="height: 300px;" class="Branch1">
+<div>
+<img style id="civil" src="media/Computer
+Science & Design.jpeg" alt="" width="260" height="140" >
+</div>
+<div class="Branch-info">
+<h1 style="font-size: 25px; margin-top: 0px;
+font-family: system-ui, -apple-system, BlinkMacSystemFont,
+
+Name: Partho Ghoshal
+Roll Number: 69
+RegistraƟon Number: 22071223
+'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans',
+'Helvetica Neue', sans-serif;">Computer Science</h1>
+<h2 style="font-size: 25px; margin-top: -5px;
+font-family: system-ui, -apple-system, BlinkMacSystemFont,
+'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans',
+'Helvetica Neue', sans-serif;">And Design</h2>
+<button id="btn_civil" class="btn_civil"
+style="margin-top: 10px;">Know More</button>
+</div>
+</div>
+<div style="height: 300px;" class="Branch1">
+<div>
+<img style id="civil" src="media/Artificial
+Intelligence and Data Science.jpeg" alt="" width="260"
+height="140" >
+</div>
+<div class="Branch-info">
+<h1 style="font-size: 22px; margin-top: 0px;
+font-family: system-ui, -apple-system, BlinkMacSystemFont,
+'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans',
+'Helvetica Neue', sans-serif;">Artificial Intelligence</h1>
+<h2 style="font-size: 22px; margin-top: -5px;
+font-family: system-ui, -apple-system, BlinkMacSystemFont,
+'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans',
+'Helvetica Neue', sans-serif;">and Data Science</h2>
+<button id="btn_civil" class="btn_civil"
+style="margin-top: 20px;">Know More</button>
+</div>
+</div>
+<div style="height: 300px;" class="Branch1">
+<div>
+<img style id="civil" src="media/CSE(Artificial
+Intelligence & Machine Learning).jpeg" alt="" width="260"
+height="140" >
+</div>
+<div class="Branch-info">
+
+Name: Partho Ghoshal
+Roll Number: 69
+RegistraƟon Number: 22071223
+<h1 style="font-size: 22px; margin-top: 0px;
+font-family: system-ui, -apple-system, BlinkMacSystemFont,
+'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans',
+'Helvetica Neue', sans-serif;">CSE(Artificial
+Intelligence</h1>
+<h2 style="font-size: 22px; margin-top: -5px;
+font-family: system-ui, -apple-system, BlinkMacSystemFont,
+'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans',
+'Helvetica Neue', sans-serif;"> & Machine Learning)</h2>
+<button id="btn_civil" class="btn_civil"
+style="margin-top: 20px;">Know More</button>
+</div>
+</div>
+<div style="height: 300px;" class="Branch1">
+<div>
+<img style id="civil" src="media/Computer
+Science Engineering(IOT).jpeg" alt="" width="260"
+height="140" >
+</div>
+<div class="Branch-info">
+<h1 style="font-size: 22px; margin-top: 0px;
+font-family: system-ui, -apple-system, BlinkMacSystemFont,
+'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans',
+'Helvetica Neue', sans-serif;">Computer Science</h1>
+<h2 style="font-size: 22px; margin-top: -5px;
+font-family: system-ui, -apple-system, BlinkMacSystemFont,
+'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans',
+'Helvetica Neue', sans-serif;"> Engineering(IOT)</h2>
+<button id="btn_civil" class="btn_civil"
+style="margin-top: 20px;">Know More</button>
+</div>
+</div>
+</div>
+</div>
+
+<!-- Partho section ends -->
+
+Name: Partho Ghoshal
+Roll Number: 69
+RegistraƟon Number: 22071223
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,
+initial-scale=1.0">
+<title>Research Publishing</title>
+<style>
+/* Styling for the popup form */
+.popup-form {
+display: none;
+position: fixed;
+left: 50%;
+top: 50%;
+transform: translate(-50%, -50%);
+background-color: #FFFFFF;
+padding: 40px;
+border-radius: 10px;
+box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+z-index: 9999;
+width: 90%;
+max-width: 500px;
+}
+/* Styling for form fields */
+.popup-form h2 {
+margin-bottom: 20px;
+color: #FFA500;
+text-align: center;
+}
+.popup-form label {
+display: block;
+margin-bottom: 10px;
+color: #333;
+font-weight: bold;
+
+Name: Partho Ghoshal
+Roll Number: 69
+RegistraƟon Number: 22071223
+}
+.popup-form input[type="text"],
+.popup-form input[type="file"],
+.popup-form textarea {
+width: 100%;
+padding: 12px;
+margin-bottom: 20px;
+border: 1px solid #ccc;
+border-radius: 5px;
+box-sizing: border-box;
+font-size: 14px;
+}
+.popup-form textarea {
+height: 100px;
+}
+.popup-form button[type="submit"] {
+background-color: #FFA500;
+color: #FFFFFF;
+padding: 15px 30px;
+border: none;
+border-radius: 5px;
+cursor: pointer;
+transition: background-color 0.3s;
+font-size: 16px;
+font-weight: bold;
+width: 100%;
+}
+.popup-form button[type="submit"]:hover {
+background-color: #FFC947;
+}
+/* Styling for success message */
+#successMessage {
+
+Name: Partho Ghoshal
+Roll Number: 69
+RegistraƟon Number: 22071223
+display: none;
+position: fixed;
+left: 50%;
+top: 50%;
+transform: translate(-50%, -50%);
+background-color: rgba(255, 255, 255, 0.9);
+padding: 20px;
+border-radius: 10px;
+box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+z-index: 9999;
+text-align: center;
+}
+/* Animation for publish button */
+@keyframes pulse {
+0% { transform: scale(1); }
+50% { transform: scale(1.1); }
+100% { transform: scale(1); }
+}
+#publishButton {
+animation: pulse 2s infinite;
+}
+</style>
+</head>
+<body>
+<section class="publish" id="Publish">
+<div class="container">
+<h1>Want to Publish Your Research Paper</h1>
+<h2>Click here</h2>
+<button id="publishButton"
+onclick="toggleResearchForm()">Publish</button>
+</div>
+</section>
+<!-- Research Publishing Form (Hidden by default) -->
+<div id="researchForm" class="popup-form">
+
+Name: Partho Ghoshal
+Roll Number: 69
+RegistraƟon Number: 22071223
+<h2>Research Publish Form</h2>
+<form id="researchPublishingForm"
+action="research_form.html" method="post">
+<!-- Form fields for research details -->
+<label for="researchTitle">Title:</label>
+<input type="text" id="researchTitle"
+name="researchTitle" required>
+<label for="researchAuthor">Author:</label>
+<input type="text" id="researchAuthor"
+name="researchAuthor" required>
+<label for="researchAbstract">Abstract:</label>
+<textarea id="researchAbstract"
+name="researchAbstract" rows="5" required></textarea>
+<label for="researchFile">Upload File:</label>
+<input type="file" id="researchFile"
+name="researchFile" required>
+<button type="submit">Submit</button>
+</form>
+</div>
+<!-- Pop-up message (Hidden by default) -->
+<div id="successMessage">
+<p>Your research work has been submitted for
+publishing.</p>
+</div>
+<script>
+function toggleResearchForm() {
+var researchForm =
+document.getElementById("researchForm");
+researchForm.style.display =
+researchForm.style.display === "none" ? "block" : "none";
+}
+
+Name: Partho Ghoshal
+Roll Number: 69
+RegistraƟon Number: 22071223
+
+document.addEventListener("DOMContentLoaded",
+function() {
+// Function to show success message
+function showSuccessMessage() {
+var successMessage =
+document.getElementById("successMessage");
+successMessage.style.display = "block";
+// Hide success message after 3 seconds
+setTimeout(function() {
+successMessage.style.display = "none";
+}, 3000);
+}
+// Event listener for research form submission
+document.getElementById("researchPublishingForm").
+addEventListener("submit", function(event) {
+event.preventDefault(); // Prevent form
+submission
+// Handle form submission here (e.g., submit
+data to server)
+// For demonstration, let's just show the
+success message
+showSuccessMessage();
+});
+});
+</script>
+</body>
+</html>
+<!-- about section -->
+<section class="about" id="About">
+<div class="container">
+<h3>About</h3>
+<p>Welcome to the YCCE College Research Development
+Portal! Founded by <span>Srujan Deshmukh</span>,
+<span>Partho Ghoshal</span>, <span>Abhijeet Pakhidde</span>,
+
+Name: Partho Ghoshal
+Roll Number: 69
+RegistraƟon Number: 22071223
+and <span>Kartik Narule</span>, our platform serves as a hub
+for showcasing the remarkable research endeavors of the
+esteemed faculty members at Yeshwantrao Chavan College of
+Engineering (YCCE).</p>
+<p>At YCCE, we believe in the power of innovation and
+academic exploration to drive progress and shape the future.
+Our portal is dedicated to fostering a culture of research
+excellence, where faculty members can share their latest
+findings, collaborate with peers, and contribute to the
+collective advancement of knowledge in their respective
+fields.</p>
+<p>Through our platform, faculty members have the
+opportunity to publish their research papers, extending the
+reach of their work and facilitating meaningful dialogue
+within the academic community. Whether it's groundbreaking
+discoveries, insightful analyses, or pioneering solutions,
+our portal is the conduit for sharing the intellectual
+contributions of YCCE's faculty members with the wider
+world.</p>
+<p>Join us on this journey of discovery,
+collaboration, and innovation as we continue to push the
+boundaries of knowledge and make a lasting impact on
+society. Together, we can inspire the next generation of
+researchers and engineers to dream, explore, and transform
+the world.</p>
+<p>Explore, discover, and innovate with YCCE College
+Research Development Portal.</p>
+</div>
+</section>
+<!-- ----- -->
+<!-- footer secction -->
+<section class="footer">
+<div class="container">
+<div class="box">
+<h3>Contact Info</h3>
+
+Name: Partho Ghoshal
+Roll Number: 69
+RegistraƟon Number: 22071223
+
+<a href="#" class=""><ion-icon name="call-
+outline"></ion-icon> +91 8669456225</a>
+
+<a href="#" class=""><ion-icon name="call-
+outline"></ion-icon> +91 9546855612</a>
+
+<a href="#" class=""><ion-icon name="mail-
+outline"></ion-icon> researchshelf129@gmail.com</a>
+
+<a href="#" class=""><ion-icon name="location-
+outline"></ion-icon> Nagpur,India - 440036</a>
+
+</div>
+
+<div class="box">
+<h3>Quick search</h3>
+
+<a href="#Home" class=""><ion-icon name="chevron-
+forward-outline"></ion-icon>Home</a>
+
+<a href="#Department" class=""><ion-icon
+name="chevron-forward-outline"></ion-icon>Department</a>
+
+<a href="#Publish" class=""><ion-icon name="chevron-
+forward-outline"></ion-icon>Publish</a>
+
+<a href="#About" class=""><ion-icon name="chevron-
+forward-outline"></ion-icon>About</a>
+
+</div>
+
+<div class="box" id="box2">
+<div class="logo">
+<img src="images/Your paragraph text.png" alt="">
+<h3>
+Researchers Shelf
+</h3>
+</div>
+</div>
+<div class="box" id="box3">
+<ul class="wrapper">
+<li class="icon facebook">
+<span class="tooltip">Facebook</span>
+
+Name: Partho Ghoshal
+Roll Number: 69
+RegistraƟon Number: 22071223
+<span><i class="fab fa-facebook-f"></i></span>
+</li>
+<li class="icon twitter">
+<span class="tooltip">Snapchat</span>
+<span><i class="fab fa-snapchat"></i></span>
+</li>
+<li class="icon instagram">
+<span class="tooltip">Instagram</span>
+<span><i class="fab fa-instagram"></i></span>
+</li>
+<li class="icon github">
+<span class="tooltip">Github</span>
+<span><i class="fab fa-github"></i></span>
+</li>
+<li class="icon youtube">
+<span class="tooltip">Youtube</span>
+<span><i class="fab fa-youtube"></i></span>
+</li>
+</ul>
+</div>
+</div>
+</section>
+<!-- footer secction ends-->
+<script src="js/script.js"></script>
+<script type="module"
+src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons
+.esm.js"></script>
+<script nomodule
+src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons
+.js"></script>
+</body>
+JavaScript File
+let searchForm = document.querySelector('.searchForm');
+document.querySelector('#searchbtn').onclick = () =>{
+searchForm.classList.toggle('active');
+}
+
+Name: Partho Ghoshal
+Roll Number: 69
+RegistraƟon Number: 22071223
+
+let loginForm = document.querySelector('.Login-form');
+document.querySelector('#Login-btn').onclick = () =>{
+loginForm.classList.toggle('active');
+}
+
+Faculties File
+<html lang="en"><head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width,
+initial-scale=1">
+<title>Mechanical Engineering| YCCE</title>
+<meta name="viewport" content="width=device-width,
+initial-scale=1">
+<link rel="stylesheet"
+
+href="https://cdnjs.cloudflare.com/ajax/libs/font-
+awesome/4.7.0/css/font-awesome.min.css">
+
+<link rel="stylesheet"
+
+href="https://cdnjs.cloudflare.com/ajax/libs/font-
+awesome/4.7.0/css/font-awesome.min.css">
+
+<link href="fac-style.css" rel="stylesheet"
+type="text/css">
+<link rel="stylesheet" type="text/css"
+href="css/bootstrap/bootstrap.min.css">
+<link rel="stylesheet" type="text/css"
+href="css/plugins/select_option1.css">
+
+<link rel="stylesheet" type="text/css" href="fonts/font-
+awesome/css/font-awesome.min.css">
+
+Name: Partho Ghoshal
+Roll Number: 69
+RegistraƟon Number: 22071223
+<link rel="stylesheet" type="text/css"
+href="css/plugins/flexslider.css">
+<link rel="stylesheet" type="text/css"
+href="css/plugins/fullcalendar.min.css">
+<link rel="stylesheet" type="text/css"
+href="https://fonts.googleapis.com/css?family=Open+Sans:400,
+600,600italic,400italic,700">
+<link rel="stylesheet" type="text/css"
+href="https://fonts.googleapis.com/css?family=Roboto+Slab:40
+0,700">
+<link rel="stylesheet" type="text/css"
+href="css/plugins/animate.css">
+<link rel="stylesheet" type="text/css"
+href="css/plugins/magnific-popup.css">
+<link rel="stylesheet" type="text/css"
+href="css/style.css">
+
+<link rel="stylesheet" type="text/css"
+href="css/colors/default.css" id="option_color">
+<style>
+.container {
+padding-right: 15px;
+padding-left: 15px;
+margin-right: auto;
+margin-left: auto;
+}
+.row {
+margin-right: -15px;
+margin-left: -15px;
+
+Name: Partho Ghoshal
+Roll Number: 69
+RegistraƟon Number: 22071223
+}
+.middle_main_bg {
+background: #fff;
+padding-top: 18px;
+border: 1px solid #ebebeb;
+min-height: 250px;
+}
+.main_wrapper {
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+height: 100vh; /* Adjust as needed */
+}
+.videoArea {
+margin-bottom: 17px;
+padding-bottom: 10px;
+}
+.videoArea>h3 {
+font-size: 30px;
+margin-bottom: 10px;
+text-transform: uppercase;
+}
+.web_main_Head {
+text-align: center;
+border-bottom: 3px solid #ebebeb;
+color: #000;
+padding-bottom: 7px;
+margin-bottom: 10px;
+}
+.faculty-m-box {
+border: 0px solid red;
+min-height: 305px;
+padding: 5px;
+margin-top: 5px;
+background: #142f59;
+color: #fff;
+
+Name: Partho Ghoshal
+Roll Number: 69
+RegistraƟon Number: 22071223
+border-top-left-radius: 50px;
+border-bottom-right-radius: 30px;
+border: 3px solid green !important;
+border-bottom: 5px solid #5a0101 !important;
+overflow: hidden;
+margin-bottom: 25px;
+}
+.faculty-l{
+display: flex;
+justify-content: center;
+}
+.img-n {
+overflow: hidden;
+margin-right: 0px !important;
+border: 3px solid #015a5a !important;
+border-radius: 50px;
+width: 100px;
+height: 100px;
+margin-bottom: 10px;
+box-shadow: 3px 3px 3px #000;
+}
+.img-n img{
+text-align: center;
+width: 120px;
+}
+.faculty-r {
+border: 0 solid red;
+margin-top: 5px;
+}
+.faculty-name {
+border-radius: 10px;
+background: #015a5a;
+font-weight: bold;
+text-align: center;
+padding: 3px 0px 3px 0px;
+margin: 10px 0px 10px 0px;
+}
+
+Name: Partho Ghoshal
+Roll Number: 69
+RegistraƟon Number: 22071223
+.faculty-content {
+border: 0px solid red;
+padding-left: 5px;
+}
+.faculty-content-n {
+border-bottom: 1px solid #175894;
+padding-left: 13px;
+margin-bottom: 6px;
+padding-bottom: 5px;
+}
+.faculty-content-n span {
+color: yellow;
+}
+.mainContent {
+padding: 20px 0 0;
+background-color: #fff;
+float: left;
+flex: 1;
+}
+.aboutArea, .aboutImage, .aboutTitle, .footer,
+.mainContent, .menuFooter {
+width: 100%;
+display: block;
+}
+.myContent {
+background: #ebebeb;
+}
+.aboutArea, .aboutImage, .aboutTitle, .footer,
+.mainContent, .menuFooter {
+width: 100%;
+display: block;
+}
+.vertical_aling_middle tr td, div {
+vertical-align: text-bottom;
+vertical-align: middle !important;
+}
+
+Name: Partho Ghoshal
+Roll Number: 69
+RegistraƟon Number: 22071223
+.vertical_aling_middle tr td, div {
+vertical-align: text-bottom;
+vertical-align: middle !important;
+}
+.container{
+width: 100%;
+height: auto;
+padding: 5px;
+background-color: rgba(211, 211, 211, 0.6);
+}
+.comp-t img{
+width: 100%;
+height: auto;
+max-height: 500px;
+display: block;
+position: relative;
+}
+.footer{
+background-color: rgb(126, 140, 151);
+padding: 10px;
+width: 100%;
+}
+.footer i{
+font-size:50px;
+margin: 5px 10px 5px 10px;
+color: black;
+}
+.footer span{
+display: flex;
+justify-content: center;
+}
+/* Responsive adjustments */
+@media (max-width: 768px) {
+
+Name: Partho Ghoshal
+Roll Number: 69
+RegistraƟon Number: 22071223
+.mainContent {
+padding: 30px 0;
+margin: 0 0 20px;
+}
+}
+</style>
+</head>
+<body>
+<div class="main_wrapper">
+
+<div class="mainContent myContent clearfix">
+<div class="container my_container">
+<div class="comp-t">
+<img src="Mechanical.jpeg" alt="">
+</div>
+<div class="row clearfix" style="margin: 15px;">
+<div class="col-sm-3 col-xs-12">
+<div style="border:0px solid red;">
+<script>
+$(document).ready(function(){
+//$("#mechanical").show();
+//$("#Electrical_menu").show();
+$(".active_faculty_li").addClass("active_bg");
+});
+</script>
+</div>
+</div>
+
+<div class="col-sm-12 col-xs-12 middle_main_bg">
+
+Name: Partho Ghoshal
+Roll Number: 69
+RegistraƟon Number: 22071223
+<div class=" clearfix middle_bg">
+<div class="videoArea clearfix">
+<h3 class="web_main_Head"> Department of Mechanical
+Engineering </h3>
+<div class="row">
+<div class="col-lg-12 col-md-5 col-xs-12 videoRight
+text_justify_m">
+<div class="col-md-12">
+<div class="faculty-m-box">
+<div class="col-md-2 faculty-l">
+<div class="img-n">
+<img src="jayant-giri.png">
+</div>
+</div>
+<div class="col-md-10 faculty-r">
+<div class="faculty-name">DR. JAYANT GIRI</div>
+<div class="faculty-content">
+<div class="faculty-content-n">
+<span> Date of Joining -</span>
+2005-09-10</div>
+<div class="faculty-content-n">
+<span> Email -</span>
+jayantpgiri@ycce.edu</div>
+<div class="faculty-content-n">
+<span> DOB -</span>
+1978-01-01</div>
+<div class="faculty-content-n"> <span> Designation -
+</span>
+HOD </div>
+<div class="faculty-content-n">
+<span> Qualification -</span>
+M.Tech. (Production),Ph.D. , PGDBM</div>
+
+Name: Partho Ghoshal
+Roll Number: 69
+RegistraƟon Number: 22071223
+<div class="faculty-content-n">
+<span> Industrial Experience -</span>
+4 years</div>
+<div class="faculty-content-n">
+<span> Teaching Experience -</span>
+17 years</div>
+<div class="faculty-content-n">
+<span> Research -</span>
+60</div>
+<div class="faculty-content-n">
+<span> Course Taught -</span>
+Computer Integrated Manufacturing ,Automation in
+Production system ,Production Management ,Industrial
+Robotics</div>
+<div class="faculty-content-n">
+<span> Publication -</span>
+<a style="color:orange"
+href="https://www.ycce.edu/ycce_fac/uploads/publication/JPG_
+Publication_details.docx"
+target="_blank">JPG_Publication_details.docx</a>
+</div>
+<div class="faculty-content-n">
+<span> Notes -</span>
+</div>
+<div class="faculty-content-n">
+<span> Additional Information -</span>
+Areas of Interest: Mathematical Modeling and Simulation,
+CNC and Robotics, Additive Manufacturing, Artificial
+Intelligence, and Advanced Optimization Expert Lecture/Guest
+Lectures delivered : Delivered more than 145 sessions in
+
+Name: Partho Ghoshal
+Roll Number: 69
+RegistraƟon Number: 22071223
+various STTPs on Modeling and Simulation ,CNC
+,Robotics,ANN,Advanced optimization</div>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div><!-- row -->
+</div><!-- videoArea -->
+</div><!--videoNine-->
+</div><!-- col-sm-8 col-xs-12 -->
+</div><!-- row clearfix -->
+<div class="footer">
+<span>
+<a href="https://www.facebook.com/"><i
+class="fa fa-facebook-square"></i></a>
+<a
+href="https://www.instagram.com/accounts/login/"><i
+class="fa fa-twitter-square"></i></a>
+
+<a href="https://in.linkedin.com/?src=go-
+pa&trk=sem-
+ga_campid.14650114788_asid.151761418307_crid.657403558721_kw
+
+.linkedin%20login_d.c_tid.kwd-
+12704335873_n.g_mt.e_geo.9181907&mcid=6844056167778418689&ci
+
+d=&gad_source=1&gclid=EAIaIQobChMI_vG7vtXJhQMV1At7Bx2RBwMxEA
+
+AYASAAEgLXBPD_BwE&gclsrc=aw.ds"><i class="fa fa-
+instagram"></i></a>
+
+Name: Partho Ghoshal
+Roll Number: 69
+RegistraƟon Number: 22071223
+<a
+href="https://twitter.com/settings/account?lang=en"><i
+class="fa fa-linkedin-square"></i></a>
+</span>
+<p>Text is available under the Creative Commons
+Attribution-ShareAlike License 4.0; additional terms may
+apply. By using this site, you agree to the Terms of Use and
+Privacy Policy. Wikipedia® is a registered trademark of the
+Wikimedia Foundation, Inc., a non-profit organization.</p>
+</div>
+</div><!-- container -->
+</div><!-- mainContent -->
+
+</div>
+</body></html>
+<html lang="en"><head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width,
+initial-scale=1">
+<title>Electronics and Telecommunation
+Engineering</title>
+<meta name="viewport" content="width=device-width,
+initial-scale=1">
+<link rel="stylesheet"
+
+href="https://cdnjs.cloudflare.com/ajax/libs/font-
+awesome/4.7.0/css/font-awesome.min.css">
+
+<link rel="stylesheet"
+
+href="https://cdnjs.cloudflare.com/ajax/libs/font-
+awesome/4.7.0/css/font-awesome.min.css">
+
+<link href="fac-style.css" rel="stylesheet"
+type="text/css">
+
+Name: Partho Ghoshal
+Roll Number: 69
+RegistraƟon Number: 22071223
+<link rel="stylesheet" type="text/css"
+href="css/bootstrap/bootstrap.min.css">
+<link rel="stylesheet" type="text/css"
+href="css/plugins/select_option1.css">
+
+<link rel="stylesheet" type="text/css" href="fonts/font-
+awesome/css/font-awesome.min.css">
+
+<link rel="stylesheet" type="text/css"
+href="css/plugins/flexslider.css">
+<link rel="stylesheet" type="text/css"
+href="css/plugins/fullcalendar.min.css">
+<link rel="stylesheet" type="text/css"
+href="https://fonts.googleapis.com/css?family=Open+Sans:400,
+600,600italic,400italic,700">
+<link rel="stylesheet" type="text/css"
+href="https://fonts.googleapis.com/css?family=Roboto+Slab:40
+0,700">
+<link rel="stylesheet" type="text/css"
+href="css/plugins/animate.css">
+<link rel="stylesheet" type="text/css"
+href="css/plugins/magnific-popup.css">
+<link rel="stylesheet" type="text/css"
+href="css/style.css">
+
+<link rel="stylesheet" type="text/css"
+href="css/colors/default.css" id="option_color">
+<style>
+
+Name: Partho Ghoshal
+Roll Number: 69
+RegistraƟon Number: 22071223
+.container {
+padding-right: 15px;
+padding-left: 15px;
+margin-right: auto;
+margin-left: auto;
+}
+.row {
+margin-right: -15px;
+margin-left: -15px;
+}
+.middle_main_bg {
+background: #fff;
+padding-top: 18px;
+border: 1px solid #ebebeb;
+min-height: 250px;
+}
+.main_wrapper {
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+height: 100vh; /* Adjust as needed */
+}
+.videoArea {
+margin-bottom: 17px;
+padding-bottom: 10px;
+}
+.videoArea>h3 {
+font-size: 30px;
+margin-bottom: 10px;
+text-transform: uppercase;
+}
+.web_main_Head {
+text-align: center;
+border-bottom: 3px solid #ebebeb;
+color: #000;
+
+Name: Partho Ghoshal
+Roll Number: 69
+RegistraƟon Number: 22071223
+padding-bottom: 7px;
+margin-bottom: 10px;
+}
+.faculty-m-box {
+border: 0px solid red;
+min-height: 305px;
+padding: 5px;
+margin-top: 5px;
+background: #142f59;
+color: #fff;
+border-top-left-radius: 50px;
+border-bottom-right-radius: 30px;
+border: 3px solid green !important;
+border-bottom: 5px solid #5a0101 !important;
+overflow: hidden;
+margin-bottom: 25px;
+}
+.faculty-l{
+display: flex;
+justify-content: center;
+}
+.img-n {
+overflow: hidden;
+border: 3px solid #015a5a !important;
+border-radius: 50px;
+width: 100px;
+height: 100px;
+box-shadow: 3px 3px 3px #000;
+}
+.img-n img{
+text-align: center;
+width: 103px;
+}
+.faculty-r {
+border: 0 solid red;
+margin-top: 5px;
+}
+
+Name: Partho Ghoshal
+Roll Number: 69
+RegistraƟon Number: 22071223
+.faculty-name {
+border-radius: 10px;
+background: #015a5a;
+font-weight: bold;
+text-align: center;
+padding: 3px 0px 3px 0px;
+margin: 10px 0px 10px 0px;
+}
+.faculty-content {
+border: 0px solid red;
+padding-left: 5px;
+}
+.faculty-content-n {
+border-bottom: 1px solid #175894;
+padding-left: 13px;
+margin-bottom: 6px;
+padding-bottom: 5px;
+}
+.faculty-content-n span {
+color: yellow;
+}
+.mainContent {
+padding: 20px 0 0;
+background-color: #fff;
+float: left;
+flex: 1;
+}
+.aboutArea, .aboutImage, .aboutTitle, .footer,
+.mainContent, .menuFooter {
+width: 100%;
+display: block;
+}
+.myContent {
+background: #ebebeb;
+}
+
+Name: Partho Ghoshal
+Roll Number: 69
+RegistraƟon Number: 22071223
+.aboutArea, .aboutImage, .aboutTitle, .footer,
+.mainContent, .menuFooter {
+width: 100%;
+display: block;
+}
+.vertical_aling_middle tr td, div {
+vertical-align: text-bottom;
+vertical-align: middle !important;
+}
+.vertical_aling_middle tr td, div {
+vertical-align: text-bottom;
+vertical-align: middle !important;
+}
+.container{
+width: 100%;
+height: auto;
+padding: 5px;
+background-color: #ffff;
+}
+.comp-t img{
+width: 100%;
+height: auto;
+max-height: 500px;
+display: block;
+position: relative;
+}
+.footer{
+background-color: rgb(126, 140, 151);
+padding: 10px;
+width: 100%;
+}
+.footer i{
+font-size:50px;
+margin: 5px 10px 5px 10px;
+color: black;
+}
+
+Name: Partho Ghoshal
+Roll Number: 69
+RegistraƟon Number: 22071223
+.footer span{
+display: flex;
+justify-content: center;
+}
+/* Responsive adjustments */
+@media (max-width: 768px) {
+.mainContent {
+padding: 30px 0;
+margin: 0 0 20px;
+}
+}
+</style>
+</head>
+<body>
+<div class="main_wrapper">
+
+<div class="mainContent myContent clearfix">
+<div class="container my_container">
+<div class="comp-t">
+<img src="Electronics and
+Telecommunication.jpeg" alt="">
+</div>
+<div class="row clearfix" style="margin: 15px;">
+<div class="col-sm-3 col-xs-12">
+<div style="border:0px solid red;">
+<script>
+$(document).ready(function(){
+//$("#mechanical").show();
+//$("#Electrical_menu").show();
+
+Name: Partho Ghoshal
+Roll Number: 69
+RegistraƟon Number: 22071223
+
+$(".active_faculty_li").addClass("active_bg");
+});
+</script>
+</div>
+</div>
+
+<div class="col-sm-12 col-xs-12 middle_main_bg">
+<div class=" clearfix middle_bg">
+<div class="videoArea clearfix">
+<h3 class="web_main_Head"> Department of Electronics and
+Telecommunications Engineering </h3>
+<div class="row">
+<div class="col-lg-12 col-md-5 col-xs-12 videoRight
+text_justify_m">
+<div class="col-md-12">
+<div class="faculty-m-box">
+<div class="col-md-2 faculty-l">
+<div class="img-n">
+<img src="deshmukh-rp.jpg">
+</div>
+</div>
+<div class="col-md-10 faculty-r">
+<div class="faculty-name">PROF. R. P. DESHMUKH</div>
+<div class="faculty-content">
+<div class="faculty-content-n">
+<span> Date of Joining -</span>
+2002-06-26</div>
+<div class="faculty-content-n">
+<span> Email -</span>
+rpd.ycce@gmail.com</div>
+<div class="faculty-content-n">
+
+Name: Partho Ghoshal
+Roll Number: 69
+RegistraƟon Number: 22071223
+<span> DOB -</span>
+1969-06-01</div>
+<div class="faculty-content-n"> <span> Designation -
+</span>
+Associate Professor </div>
+<div class="faculty-content-n">
+<span> Qualification -</span>
+M. Tech., B.E</div>
+<div class="faculty-content-n">
+<span> Industrial Experience -</span>
+</div>
+<div class="faculty-content-n">
+<span> Teaching Experience -</span>
+26 Years</div>
+<div class="faculty-content-n">
+<span> Research -</span>
+6</div>
+<div class="faculty-content-n">
+<span> Course Taught -</span>
+RF and microwave, power electronics,TV and video
+engineering, Anolog communication</div>
+<div class="faculty-content-n">
+<span> Publication -</span>
+</div>
+<div class="faculty-content-n">
+<span> Notes -</span>
+</div>
+<div class="faculty-content-n">
+<span> Additional Information -</span>
+
+Name: Partho Ghoshal
+Roll Number: 69
+RegistraƟon Number: 22071223
+Lab incharge, NAAC Coordinator, Handling NBA Files
+F2,F17</div>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div><!-- row -->
+</div><!-- videoArea -->
+</div><!--videoNine-->
+</div><!-- col-sm-8 col-xs-12 -->
+</div><!-- row clearfix -->
+<div class="footer">
+<span>
+<a href="https://www.facebook.com/"><i
+class="fa fa-facebook-square"></i></a>
+<a
+href="https://www.instagram.com/accounts/login/"><i
+class="fa fa-twitter-square"></i></a>
+
+<a href="https://in.linkedin.com/?src=go-
+pa&trk=sem-
+ga_campid.14650114788_asid.151761418307_crid.657403558721_kw
+
+.linkedin%20login_d.c_tid.kwd-
+12704335873_n.g_mt.e_geo.9181907&mcid=6844056167778418689&ci
+
+d=&gad_source=1&gclid=EAIaIQobChMI_vG7vtXJhQMV1At7Bx2RBwMxEA
+
+AYASAAEgLXBPD_BwE&gclsrc=aw.ds"><i class="fa fa-
+instagram"></i></a>
+
+Name: Partho Ghoshal
+Roll Number: 69
+RegistraƟon Number: 22071223
+<a
+href="https://twitter.com/settings/account?lang=en"><i
+class="fa fa-linkedin-square"></i></a>
+</span>
+<p>Text is available under the Creative Commons
+Attribution-ShareAlike License 4.0; additional terms may
+apply. By using this site, you agree to the Terms of Use and
+Privacy Policy. Wikipedia® is a registered trademark of the
+Wikimedia Foundation, Inc., a non-profit organization.</p>
+</div>
+</div><!-- container -->
+</div><!-- mainContent -->
+
+</div>
+</body></html>
+<html lang="en"><head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+<meta name="viewport" content="width=device-width, initial-
+scale=1">
+
+<title>Computer Technology | YCCE</title>
+
+<meta name="viewport" content="width=device-width, initial-
+scale=1">
+
+<link rel="stylesheet"
+
+href="https://cdnjs.cloudflare.com/ajax/libs/font-
+awesome/4.7.0/css/font-awesome.min.css">
+
+<link rel="stylesheet"
+
+href="https://cdnjs.cloudflare.com/ajax/libs/font-
+awesome/4.7.0/css/font-awesome.min.css">
+
+<link href="fac-style.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" type="text/css"
+href="css/bootstrap/bootstrap.min.css">
+
+Name: Partho Ghoshal
+Roll Number: 69
+RegistraƟon Number: 22071223
+
+<link rel="stylesheet" type="text/css"
+href="css/plugins/select_option1.css">
+
+<link rel="stylesheet" type="text/css" href="fonts/font-
+awesome/css/font-awesome.min.css">
+
+<link rel="stylesheet" type="text/css"
+href="css/plugins/flexslider.css">
+<link rel="stylesheet" type="text/css"
+href="css/plugins/fullcalendar.min.css">
+<link rel="stylesheet" type="text/css"
+href="https://fonts.googleapis.com/css?family=Open+Sans:400,
+600,600italic,400italic,700">
+<link rel="stylesheet" type="text/css"
+href="https://fonts.googleapis.com/css?family=Roboto+Slab:40
+0,700">
+<link rel="stylesheet" type="text/css"
+href="css/plugins/animate.css">
+<link rel="stylesheet" type="text/css"
+href="css/plugins/magnific-popup.css">
+<link rel="stylesheet" type="text/css" href="css/style.css">
+
+<link rel="stylesheet" type="text/css"
+href="css/colors/default.css" id="option_color">
+<style>
+.container {
+padding-right: 15px;
+padding-left: 15px;
+margin-right: auto;
+
+Name: Partho Ghoshal
+Roll Number: 69
+RegistraƟon Number: 22071223
+margin-left: auto;
+}
+.row {
+margin-right: -15px;
+margin-left: -15px;
+}
+.middle_main_bg {
+background: #fff;
+padding-top: 18px;
+border: 1px solid #ebebeb;
+min-height: 250px;
+}
+.main_wrapper {
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+height: 100vh; /* Adjust as needed */
+}
+.videoArea {
+margin-bottom: 17px;
+padding-bottom: 10px;
+}
+.videoArea>h3 {
+font-size: 30px;
+margin-bottom: 10px;
+text-transform: uppercase;
+}
+.web_main_Head {
+text-align: center;
+border-bottom: 3px solid #ebebeb;
+color: #000;
+padding-bottom: 7px;
+margin-bottom: 10px;
+}
+.faculty-m-box {
+
+Name: Partho Ghoshal
+Roll Number: 69
+RegistraƟon Number: 22071223
+border: 0px solid red;
+min-height: 305px;
+padding: 5px;
+margin-top: 5px;
+background: #142f59;
+color: #fff;
+border-top-left-radius: 50px;
+border-bottom-right-radius: 30px;
+border: 3px solid green !important;
+border-bottom: 5px solid #5a0101 !important;
+overflow: hidden;
+margin-bottom: 25px;
+}
+.faculty-l{
+display: flex;
+justify-content: center;
+}
+.img-n {
+overflow: hidden;
+margin-right: 0px !important;
+border: 3px solid #015a5a !important;
+border-radius: 50px;
+width: 100px;
+height: 100px;
+margin-bottom: 10px;
+box-shadow: 3px 3px 3px #000;
+}
+.img-n img{
+text-align: center;
+width: 103px;
+}
+.faculty-r {
+border: 0 solid red;
+margin-top: 5px;
+}
+.faculty-name {
+border-radius: 10px;
+
+Name: Partho Ghoshal
+Roll Number: 69
+RegistraƟon Number: 22071223
+background: #015a5a;
+font-weight: bold;
+text-align: center;
+padding: 3px 0px 3px 0px;
+margin: 10px 0px 10px 0px;
+}
+.faculty-content {
+border: 0px solid red;
+padding-left: 5px;
+}
+.faculty-content-n {
+border-bottom: 1px solid #175894;
+padding-left: 13px;
+margin-bottom: 6px;
+padding-bottom: 5px;
+}
+.faculty-content-n span {
+color: yellow;
+}
+.mainContent {
+padding: 20px 0 0;
+background-color: #fff;
+float: left;
+flex: 1;
+}
+.aboutArea, .aboutImage, .aboutTitle, .footer,
+.mainContent, .menuFooter {
+width: 100%;
+display: block;
+}
+.myContent {
+background: #ebebeb;
+}
+.aboutArea, .aboutImage, .aboutTitle, .footer,
+.mainContent, .menuFooter {
+width: 100%;
+
+Name: Partho Ghoshal
+Roll Number: 69
+RegistraƟon Number: 22071223
+display: block;
+}
+.vertical_aling_middle tr td, div {
+vertical-align: text-bottom;
+vertical-align: middle !important;
+}
+.vertical_aling_middle tr td, div {
+vertical-align: text-bottom;
+vertical-align: middle !important;
+}
+.container{
+width: 100%;
+height: auto;
+padding: 5px;
+background-color: #ffff;
+}
+.comp-t img{
+width: 100%;
+height: auto;
+max-height: 500px;
+display: block;
+position: relative;
+}
+.footer{
+background-color: rgb(126, 140, 151);
+padding: 10px;
+width: 100%;
+}
+.footer i{
+font-size:50px;
+margin: 5px 10px 5px 10px;
+color: black;
+}
+.footer span{
+display: flex;
+justify-content: center;
+
+Name: Partho Ghoshal
+Roll Number: 69
+RegistraƟon Number: 22071223
+
+}
+/* Responsive adjustments */
+@media (max-width: 768px) {
+.mainContent {
+padding: 30px 0;
+margin: 0 0 20px;
+}
+}
+</style>
+</head>
+<body>
+<div class="main_wrapper">
+
+<div class="mainContent myContent clearfix">
+<div class="container my_container">
+<div class="comp-t">
+<img src="Computer Technology.jpeg" alt="">
+</div>
+<div class="row clearfix" style="margin: 15px;">
+<div class="col-sm-3 col-xs-12">
+<div style="border:0px solid red;">
+<script>
+$(document).ready(function(){
+//$("#mechanical").show();
+//$("#Electrical_menu").show();
+$(".active_faculty_li").addClass("active_bg");
+});
+</script>
+
+Name: Partho Ghoshal
+Roll Number: 69
+RegistraƟon Number: 22071223
+</div>
+</div>
+
+<div class="col-sm-12 col-xs-12 middle_main_bg">
+<div class=" clearfix middle_bg">
+<div class="videoArea clearfix">
+<h3 class="web_main_Head"> Department of Computer Technology
+</h3>
+<div class="row">
+<div class="col-lg-12 col-md-5 col-xs-12 videoRight
+text_justify_m">
+<div class="col-md-12">
+<div class="faculty-m-box">
+<div class="col-md-2 faculty-l">
+<div class="img-n">
+<img src="rakhi-wajgi.jpeg">
+</div>
+</div>
+<div class="col-md-10 faculty-r">
+<div class="faculty-name">DR. RAKHI D. WAJGI</div>
+<div class="faculty-content">
+<div class="faculty-content-n">
+<span> Date of Joining -</span>
+2008-12-15</div>
+<div class="faculty-content-n">
+<span> Email -</span>
+rdwajgi@ycce.edu</div>
+<div class="faculty-content-n">
+<span> DOB -</span>
+1982-07-17</div>
+<div class="faculty-content-n"> <span> Designation -</span>
+HOD </div>
+<div class="faculty-content-n">
+
+Name: Partho Ghoshal
+Roll Number: 69
+RegistraƟon Number: 22071223
+<span> Qualification -</span>
+Ph.D (CST), M.E. (CSE)</div>
+<div class="faculty-content-n">
+<span> Industrial Experience -</span>
+0.5 year</div>
+<div class="faculty-content-n">
+<span> Teaching Experience -</span>
+14 Year</div>
+<div class="faculty-content-n">
+<span> Research -</span>
+20+</div>
+<div class="faculty-content-n">
+<span> Course Taught -</span>
+Foundations of Data Science, Data structures, Algorithms,
+Operating Systems, Parallel Computing, Advanced Data
+Structures,COBOL</div>
+<div class="faculty-content-n">
+<span> Publication -</span>
+<a style="color:orange"
+href="https://www.ycce.edu/ycce_fac/uploads/publication/RDW_
+Profile.pdf" target="_blank">RDW_Profile.pdf</a> |
+</div>
+<div class="faculty-content-n">
+<span> Notes -</span>
+</div>
+<div class="faculty-content-n">
+<span> Additional Information -</span>
+BE(Pune University )
+ME(BITS, Pilani)</div>
+
+Name: Partho Ghoshal
+Roll Number: 69
+RegistraƟon Number: 22071223
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div><!-- row -->
+</div><!-- videoArea -->
+</div><!--videoNine-->
+</div><!-- col-sm-8 col-xs-12 -->
+</div><!-- row clearfix -->
+<div class="footer">
+<span>
+<a href="https://www.facebook.com/"><i class="fa
+fa-facebook-square"></i></a>
+<a
+href="https://www.instagram.com/accounts/login/"><i
+class="fa fa-twitter-square"></i></a>
+
+<a href="https://in.linkedin.com/?src=go-
+pa&trk=sem-
+ga_campid.14650114788_asid.151761418307_crid.657403558721_kw
+
+.linkedin%20login_d.c_tid.kwd-
+12704335873_n.g_mt.e_geo.9181907&mcid=6844056167778418689&ci
+
+d=&gad_source=1&gclid=EAIaIQobChMI_vG7vtXJhQMV1At7Bx2RBwMxEA
+
+AYASAAEgLXBPD_BwE&gclsrc=aw.ds"><i class="fa fa-
+instagram"></i></a>
+
+<a
+href="https://twitter.com/settings/account?lang=en"><i
+class="fa fa-linkedin-square"></i></a>
+</span>
+
+Name: Partho Ghoshal
+Roll Number: 69
+RegistraƟon Number: 22071223
+<p>Text is available under the Creative Commons
+Attribution-ShareAlike License 4.0; additional terms may
+apply. By using this site, you agree to the Terms of Use and
+Privacy Policy. Wikipedia® is a registered trademark of the
+Wikimedia Foundation, Inc., a non-profit organization.</p>
+</div>
+</div><!-- container -->
+</div><!-- mainContent -->
+
+</div>
+</body></html>
+<html lang="en"><head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width,
+initial-scale=1">
+<title>Civil Engineering</title>
+<meta name="viewport" content="width=device-width,
+initial-scale=1">
+<link rel="stylesheet"
+
+href="https://cdnjs.cloudflare.com/ajax/libs/font-
+awesome/4.7.0/css/font-awesome.min.css">
+
+<link rel="stylesheet"
+
+href="https://cdnjs.cloudflare.com/ajax/libs/font-
+awesome/4.7.0/css/font-awesome.min.css">
+
+<link href="fac-style.css" rel="stylesheet"
+type="text/css">
+<link rel="stylesheet" type="text/css"
+href="css/bootstrap/bootstrap.min.css">
+<link rel="stylesheet" type="text/css"
+href="css/plugins/select_option1.css">
+
+Name: Partho Ghoshal
+Roll Number: 69
+RegistraƟon Number: 22071223
+
+<link rel="stylesheet" type="text/css" href="fonts/font-
+awesome/css/font-awesome.min.css">
+
+<link rel="stylesheet" type="text/css"
+href="css/plugins/flexslider.css">
+<link rel="stylesheet" type="text/css"
+href="css/plugins/fullcalendar.min.css">
+<link rel="stylesheet" type="text/css"
+href="https://fonts.googleapis.com/css?family=Open+Sans:400,
+600,600italic,400italic,700">
+<link rel="stylesheet" type="text/css"
+href="https://fonts.googleapis.com/css?family=Roboto+Slab:40
+0,700">
+<link rel="stylesheet" type="text/css"
+href="css/plugins/animate.css">
+<link rel="stylesheet" type="text/css"
+href="css/plugins/magnific-popup.css">
+<link rel="stylesheet" type="text/css"
+href="css/style.css">
+
+<link rel="stylesheet" type="text/css"
+href="css/colors/default.css" id="option_color">
+<style>
+.container {
+padding-right: 15px;
+padding-left: 15px;
+margin-right: auto;
+margin-left: auto;
+}
+
+Name: Partho Ghoshal
+Roll Number: 69
+RegistraƟon Number: 22071223
+.row {
+margin-right: -15px;
+margin-left: -15px;
+}
+.middle_main_bg {
+background: #fff;
+padding-top: 18px;
+border: 1px solid #ebebeb;
+min-height: 250px;
+}
+.main_wrapper {
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+height: 100vh; /* Adjust as needed */
+}
+.videoArea {
+margin-bottom: 17px;
+padding-bottom: 10px;
+}
+.videoArea>h3 {
+font-size: 30px;
+margin-bottom: 10px;
+text-transform: uppercase;
+}
+.web_main_Head {
+text-align: center;
+border-bottom: 3px solid #ebebeb;
+color: #000;
+padding-bottom: 7px;
+margin-bottom: 10px;
+}
+.faculty-m-box {
+border: 0px solid red;
+min-height: 305px;
+
+Name: Partho Ghoshal
+Roll Number: 69
+RegistraƟon Number: 22071223
+padding: 5px;
+margin-top: 5px;
+background: #142f59;
+color: #fff;
+border-top-left-radius: 50px;
+border-bottom-right-radius: 30px;
+border: 3px solid green !important;
+border-bottom: 5px solid #5a0101 !important;
+overflow: hidden;
+margin-bottom: 25px;
+}
+.faculty-l{
+display: flex;
+justify-content: center;
+}
+.img-n {
+overflow: hidden;
+border: 3px solid #015a5a !important;
+border-radius: 50px;
+width: 100px;
+height: 100px;
+box-shadow: 3px 3px 3px #000;
+}
+.img-n img{
+text-align: center;
+width: 103px;
+}
+.faculty-r {
+border: 0 solid red;
+margin-top: 5px;
+}
+.faculty-name {
+border-radius: 10px;
+background: #015a5a;
+font-weight: bold;
+text-align: center;
+padding: 3px 0px 3px 0px;
+
+Name: Partho Ghoshal
+Roll Number: 69
+RegistraƟon Number: 22071223
+margin: 10px 0px 10px 0px;
+}
+.faculty-content {
+border: 0px solid red;
+padding-left: 5px;
+}
+.faculty-content-n {
+border-bottom: 1px solid #175894;
+padding-left: 13px;
+margin-bottom: 6px;
+padding-bottom: 5px;
+}
+.faculty-content-n span {
+color: yellow;
+}
+.mainContent {
+padding: 20px 0 0;
+background-color: #fff;
+float: left;
+flex: 1;
+}
+.aboutArea, .aboutImage, .aboutTitle, .footer,
+.mainContent, .menuFooter {
+width: 100%;
+display: block;
+}
+.myContent {
+background: #ebebeb;
+}
+.aboutArea, .aboutImage, .aboutTitle, .footer,
+.mainContent, .menuFooter {
+width: 100%;
+display: block;
+}
+.vertical_aling_middle tr td, div {
+vertical-align: text-bottom;
+
+Name: Partho Ghoshal
+Roll Number: 69
+RegistraƟon Number: 22071223
+vertical-align: middle !important;
+}
+.vertical_aling_middle tr td, div {
+vertical-align: text-bottom;
+vertical-align: middle !important;
+}
+.container{
+width: 100%;
+height: auto;
+padding: 5px;
+background-color: #ffff;
+}
+.comp-t img{
+width: 100%;
+height: auto;
+max-height: 500px;
+display: block;
+position: relative;
+}
+.footer{
+background-color: rgb(126, 140, 151);
+padding: 10px;
+width: 100%;
+}
+.footer i{
+font-size:50px;
+margin: 5px 10px 5px 10px;
+color: black;
+}
+.footer span{
+display: flex;
+justify-content: center;
+}
+/* Responsive adjustments */
+
+Name: Partho Ghoshal
+Roll Number: 69
+RegistraƟon Number: 22071223
+@media (max-width: 768px) {
+.mainContent {
+padding: 30px 0;
+margin: 0 0 20px;
+}
+}
+</style>
+</head>
+<body>
+<div class="main_wrapper">
+
+<div class="mainContent myContent clearfix">
+<div class="container my_container">
+<div class="comp-t">
+<img src="civil.jpeg" alt="">
+</div>
+<div class="row clearfix" style="margin: 15px;">
+<div class="col-sm-3 col-xs-12">
+<div style="border:0px solid red;">
+<script>
+$(document).ready(function(){
+//$("#mechanical").show();
+//$("#Electrical_menu").show();
+$(".active_faculty_li").addClass("active_bg");
+});
+</script>
+</div>
+</div>
+
+Name: Partho Ghoshal
+Roll Number: 69
+RegistraƟon Number: 22071223
+
+<div class="col-sm-12 col-xs-12 middle_main_bg">
+<div class=" clearfix middle_bg">
+<div class="videoArea clearfix">
+<h3 class="web_main_Head"> Department of Civil
+Engineering </h3>
+<div class="row">
+<div class="col-lg-12 col-md-5 col-xs-12 videoRight
+text_justify_m">
+<div class="col-md-12">
+<div class="faculty-m-box">
+<div class="col-md-2 faculty-l">
+<div class="img-n">
+<img src="AVP_PHOTOGRAPH.jpg">
+</div>
+</div>
+<div class="col-md-10 faculty-r">
+<div class="faculty-name">DR. ABHAY VINAYAKRAO
+PATIL</div>
+<div class="faculty-content">
+<div class="faculty-content-n">
+<span> Date of Joining -</span>
+1986-07-21</div>
+<div class="faculty-content-n">
+<span> Email -</span>
+professoravpatil@gmail.com</div>
+<div class="faculty-content-n">
+<span> DOB -</span>
+1965-06-03</div>
+<div class="faculty-content-n"> <span> Designation -
+</span>
+Professor </div>
+<div class="faculty-content-n">
+
+Name: Partho Ghoshal
+Roll Number: 69
+RegistraƟon Number: 22071223
+<span> Qualification -</span>
+Ph.D; ME (Structures Engineering); BE (CiviI
+Engineering)</div>
+<div class="faculty-content-n">
+<span> Industrial Experience -</span>
+</div>
+<div class="faculty-content-n">
+<span> Teaching Experience -</span>
+33 Years</div>
+<div class="faculty-content-n">
+<span> Research -</span>
+Critical study of utilization of Silico Mangance slag -
+A non biodegradable waste material as coarse and fine
+aggregates in plain reinforced cement concrete, PRESENTED IN
+International Conference on Technologies for Development
+organized by EPEL- UNESCO</div>
+<div class="faculty-content-n">
+<span> Course Taught -</span>
+AY 2018-19 CV2907, CV2917, CV 2919, CV 1341</div>
+<div class="faculty-content-n">
+<span> Publication -</span>
+<a style="color:orange"
+href="https://www.ycce.edu/ycce_fac/uploads/publication/RESE
+ARCH__TRAINING.pdf"
+target="_blank">RESEARCH__TRAINING.pdf</a> |
+</div>
+<div class="faculty-content-n">
+<span> Notes -</span>
+</div>
+<div class="faculty-content-n">
+
+Name: Partho Ghoshal
+Roll Number: 69
+RegistraƟon Number: 22071223
+<span> Additional Information -</span>
+LABORATORY IN CHARGE FOR CONCRETE TECHNOLOGY
+LABORATORY</div>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div><!-- row -->
+</div><!-- videoArea -->
+</div><!--videoNine-->
+</div><!-- col-sm-8 col-xs-12 -->
+</div><!-- row clearfix -->
+<div class="footer">
+<span>
+<a href="https://www.facebook.com/"><i
+class="fa fa-facebook-square"></i></a>
+<a
+href="https://www.instagram.com/accounts/login/"><i
+class="fa fa-twitter-square"></i></a>
+
+<a href="https://in.linkedin.com/?src=go-
+pa&trk=sem-
+ga_campid.14650114788_asid.151761418307_crid.657403558721_kw
+
+.linkedin%20login_d.c_tid.kwd-
+12704335873_n.g_mt.e_geo.9181907&mcid=6844056167778418689&ci
+
+d=&gad_source=1&gclid=EAIaIQobChMI_vG7vtXJhQMV1At7Bx2RBwMxEA
+
+AYASAAEgLXBPD_BwE&gclsrc=aw.ds"><i class="fa fa-
+instagram"></i></a>
+
+Name: Partho Ghoshal
+Roll Number: 69
+RegistraƟon Number: 22071223
+<a
+href="https://twitter.com/settings/account?lang=en"><i
+class="fa fa-linkedin-square"></i></a>
+</span>
+<p>Text is available under the Creative Commons
+Attribution-ShareAlike License 4.0; additional terms may
+apply. By using this site, you agree to the Terms of Use and
+Privacy Policy. Wikipedia® is a registered trademark of the
+Wikimedia Foundation, Inc., a non-profit organization.</p>
+</div>
+</div><!-- container -->
+</div><!-- mainContent -->
+
+</div>
+</body></html>
